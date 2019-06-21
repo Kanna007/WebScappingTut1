@@ -1,0 +1,12 @@
+WEB SCRAPPING AND CRAWLING TUTORIAL
+
+
+We will learning about web scrapping and crawling using python this tutorial lead you to basic
+understanding of what you want like
+
+Step 1:Basic installation of python link(For-windows:https://www.python.org/downloads/windows/)
+       (For-mac:https://www.python.org/downloads/mac-osx/)
+Step 2:Install the plugin request link(https://pypi.org/project/requests/)
+
+Step 3:Start extracting data from certain web pages you like
+       here's my code()
